@@ -15,6 +15,43 @@
     line-height: 22px;
 
 }
-.bannerImg img{
+
+.bannerText button {
+    background: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
     border-radius: 8px;
+    border: none;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.bannerImg img {
+    border-radius: 8px;
+}
+
+.item1 {
+   position: relative;
+    width: 300px;
+    height: 120px;
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+    border-radius: 14px;
+}
+
+.item2 {
+   position: relative;
+    width: 300px;
+    height: 120px;
+    background: #3A4256;
+    border-radius: 14px;
+}
+
+.item3 {
+   position: relative;
+    width: 300px;
+    height: 120px;
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+    border-radius: 14px;
 }
